@@ -1,0 +1,13 @@
+.gradle/
+build/
+.idea/
+*.iml
+.DS_Store
+local.properties
+appBundle/
+*.apk
+*.app
+*.ipa
+.env
+scripts/env/*.env
+!scripts/env/*.env.example
